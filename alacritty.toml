@@ -1,8 +1,8 @@
 live_config_reload = true
 
 [window]
-decorations = "Transparent"
-opacity = 0.9
+decorations = "Full"
+opacity = 1.0 
 
 [font]
 normal = { family = "FiraMono Nerd Font", style = "Regular" }
